@@ -1,0 +1,13 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\Card.exe
+bin\Debug\Card.pdb
+obj\Debug\Card.exe
+obj\Debug\Card.pdb
+bin\Release\Card.exe
+bin\Release\Card.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Card.exe
+obj\Release\Card.pdb
+bin\Release\CardResult.mdf
+bin\Release\CardResult_log.ldf
+bin\Release\Card.exe.config

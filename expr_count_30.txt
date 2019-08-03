@@ -1,0 +1,4 @@
+(generate 2 different exprs for exchangable operators)  737280
+(generate 1 expr for exchangable operators)  		233280
+(generate normalized expressions only)			52202
+
